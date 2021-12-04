@@ -1,6 +1,6 @@
-# Contoh Projek Virtual Bootcamp Laravel
+#  Projek Virtual Bootcamp Laravel
 
-maklumat lanjut di KelasProgramming.com 
+
 
 ## Ini adalah contoh
 
